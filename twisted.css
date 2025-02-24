@@ -1,0 +1,99 @@
+twisted.css
+
+html{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+body{
+    background-color: #311842;  
+}
+
+/*----------------Base-----------------*/
+
+h2{
+    font-family: "Bodoni Moda SC", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 30pt;
+    color: #F2F1D9;
+}
+
+
+h3{
+  font-family: "Bodoni Moda SC", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    color: #F2F1D9;  
+}
+
+
+
+p{
+    font-family: "adobe-aldine", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:14pt;
+
+    line-height: 24px;
+
+    color: #F2F1D9; 
+}
+
+/*----------------Base-----------------*/
+
+.web-rose1{
+    
+    display: flex;
+    flex-direction: row;
+
+}
+
+.top{
+    display: flex;
+    flex-direction: row;
+   
+    justify-content: space-between;
+}
+
+
+.heading{
+
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+
+    position: relative;
+    right: 65%;
+
+   
+
+}
+
+
+.numbers{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+
+    position: relative;
+    right: 68%;
+
+
+    padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
